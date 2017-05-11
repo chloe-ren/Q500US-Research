@@ -1,6 +1,6 @@
 Q500US Securites Python Exercise
 ==================================
-==================================
+
 
 Inluded: Python notebook : Q500US_Exercise.ipynb
 
